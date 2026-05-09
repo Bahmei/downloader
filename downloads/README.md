@@ -7,6 +7,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.15](./mhrv-rs-android-arm64-v8a-v1.9.15)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 - [mhrv-rs-linux-amd64.tar](./mhrv-rs-linux-amd64.tar)
+- [pydns-scanner-linux](./pydns-scanner-linux)
 
 ---
 
