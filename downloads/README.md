@@ -8,6 +8,7 @@
 - [karing_1.2.19.2202_android_arm64-v8a](./karing_1.2.19.2202_android_arm64-v8a)
 - [mhrv-rs-android-arm64-v8a-v1.9.15](./mhrv-rs-android-arm64-v8a-v1.9.15)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
+- [mhrv-rs-android-arm64-v8a-v1.9.21](./mhrv-rs-android-arm64-v8a-v1.9.21)
 - [mhrv-rs-linux-amd64.tar](./mhrv-rs-linux-amd64.tar)
 - [pydns-scanner-linux](./pydns-scanner-linux)
 
